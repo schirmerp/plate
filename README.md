@@ -11,5 +11,6 @@ react-webpack-template
 - [Docker](https://www.robinwieruch.de/docker-react-development)
 
 ## Installation
+git clone https://github.com/schirmerp/plate.git
 - npm install
 - npm start
